@@ -4,14 +4,13 @@ Hands-on Infrastructure as Code labs using Terraform and AWS.
 
 ## Labs Covered
 
-- Terraform Basics
-- Variables
-- Outputs
-- Security Groups
-- EC2 Deployment
-- State Management
-- Git Integration
-- GitHub Actions CI/CD
+Terraform AWS Labs
+├── EC2 Deployment
+├── Security Groups
+├── GitHub Actions CI/CD
+├── Variables
+├── Outputs
+└── State Management
 
 ## Tools Used
 
